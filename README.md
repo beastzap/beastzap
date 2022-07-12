@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beastzap
-- 👀 I’m interested in PYTHON, JAVA and C
-- 🌱 I’m currently learning JAVA and C
+- 👀 I’m interested in PYTHON and Javascript
+- 🌱 I’m currently learning Javascript and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
